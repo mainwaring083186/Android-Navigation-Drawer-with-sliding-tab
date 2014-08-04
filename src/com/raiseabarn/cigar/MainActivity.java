@@ -1,4 +1,6 @@
-package com.example.ui;
+package com.raiseabarn.cigar;
+
+import com.raiseabarn.cigar.R;
 
 import android.app.Activity;
 import android.support.v7.app.ActionBarActivity;

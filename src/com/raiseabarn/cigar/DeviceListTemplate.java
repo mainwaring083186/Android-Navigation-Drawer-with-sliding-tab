@@ -1,6 +1,7 @@
-package com.example.ui;
+package com.raiseabarn.cigar;
 
-import com.example.ui.R.id;
+import com.raiseabarn.cigar.R;
+import com.raiseabarn.cigar.R.id;
 
 import android.annotation.SuppressLint;
 import android.os.Bundle;

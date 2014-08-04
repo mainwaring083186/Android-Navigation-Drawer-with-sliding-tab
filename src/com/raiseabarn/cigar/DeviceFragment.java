@@ -1,6 +1,7 @@
-package com.example.ui;
+package com.raiseabarn.cigar;
 
 import com.astuetz.PagerSlidingTabStrip;
+import com.raiseabarn.cigar.R;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
