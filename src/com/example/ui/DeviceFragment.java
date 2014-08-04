@@ -62,7 +62,7 @@ public class DeviceFragment extends Fragment {
 		
 		 // Initialize the ViewPager and set an adapter
 		 ViewPager pager = (ViewPager) view.findViewById(R.id.pager);
-		 pager.setAdapter(new MyPagerAdapter(getChildFragmentManager()));
+		 pager.setAdapter(new MyPagerAdapter(getFragmentManager()));
 
 		 // Bind the tabs to the ViewPager
 		 PagerSlidingTabStrip tabs = (PagerSlidingTabStrip) view.findViewById(R.id.tabs);
